@@ -1,5 +1,3 @@
-# the link needs subscription
-
 source("00-pkgs-and-funs.R")
 
 # docs ----

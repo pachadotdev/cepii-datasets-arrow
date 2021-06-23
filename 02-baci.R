@@ -1,5 +1,3 @@
-# the links needs subscription and premium access to UN COMTRADE
-
 source("00-pkgs-and-funs.R")
 
 url <- "http://www.cepii.fr/DATA_DOWNLOAD/baci/nomenclatures/country_codes_V202001.csv"

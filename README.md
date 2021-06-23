@@ -1,6 +1,6 @@
 # CEPII Datasets to Arrow Parquet
 
-This repo does not contain the datasets, just the scripts to ease reproducible research.
+This repo does not contain the datasets, just the scripts to ease reproducible research. In order to access the datasets you need a BACI subscription and/or premium UN COMTRADE access.
 
 ## GeoDist
 
